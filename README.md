@@ -3,6 +3,9 @@
 **Islamic Motivational Life Plan focused on Shukr (Gratitude)**  
 Turn every Quranic reminder into daily action + powerful grateful language.
 
+**Live product:** Ummah Anthems + Grateful Life OS — $47 one-time  
+Checkout: https://whop.com/checkout/plan_TvDV8LaQDYFou
+
 ---
 
 ## Core Principle
@@ -14,7 +17,7 @@ You pair each quote with:
 
 ---
 
-## The Complete System
+## The Complete System (Core Table)
 
 | Quote | Life Area | Daily Action | Grateful Language You Speak |
 |-------|-----------|--------------|-----------------------------|
@@ -29,48 +32,62 @@ You pair each quote with:
 
 ---
 
+## What’s Now Included (10/10 Complete)
+
+| File | Purpose |
+|------|--------|
+| `README.md` | Core system + table |
+| `30-DAY-GRATEFUL-LIFE-CALENDAR.md` | Day-by-day actions, journal prompts, weekly resets |
+| `LANGUAGE-BANK.md` | Full replacement list + situation triggers |
+| `UGC-SCRIPTS.md` | 6 ready-to-film vertical scripts + CapCut notes |
+| `QUICK-START.md` | 10-minute install |
+| `SALES_PAGE.md` | Sales copy |
+| `TEMU_INTEGRATION.md` | Dual revenue notes |
+
+---
+
 ## How to Install This in 10 Minutes
 
-1. Copy this entire README or the table into your Notes / Notion / Journal.
-2. Set two daily alarms:
-   - **Morning** (after Fajr): Read the gratitude quote + list 3 specific blessings
-   - **Night** (before sleep): Review which quote you needed most today and speak the grateful language out loud
-3. Speak the language out loud. Do not just think it.
+1. Open `QUICK-START.md` or copy the table into Notes / Notion / Journal.  
+2. Set two daily alarms (after Fajr + before sleep).  
+3. Speak the language out loud. Do not just think it.  
+4. Start Day 1 of the 30-day calendar today.
 
 ---
 
 ## Language Upgrade (Speak Like This)
 
-**Stop saying:**
-- “I’m stressed”
-- “Nothing is working”
-- “I hope things get better”
+**Stop saying:**  
+- “I’m stressed”  
+- “Nothing is working”  
+- “I hope things get better”  
 - “Why is this happening to me?”
 
-**Start saying:**
-- “Alhamdulillah for this test — ease is coming.”
-- “I am grateful You are teaching me sabr right now.”
-- “Hasbunallah. I trust the timing.”
-- “Ya Allah, increase me because I am grateful.”
+**Start saying:**  
+- “Alhamdulillah for this test — ease is coming.”  
+- “I am grateful You are teaching me sabr right now.”  
+- “Hasbunallah. I trust the timing.”  
+- “Ya Allah, increase me because I am grateful.”  
 - “This difficulty is temporary. Your promise is permanent.”
 
-This language rewires the heart and invites barakah.
+This language rewires the heart and invites barakah. Full bank → `LANGUAGE-BANK.md`
 
 ---
 
 ## Optional: Turn It Into Content
 
-Every time you live one of these for 3–7 days, film a short authentic UGC video:
-
+Every time you live one of these for 3–7 days, film a short authentic UGC video:  
 “I used this verse for 7 days and here’s what shifted…”
 
+Ready scripts → `UGC-SCRIPTS.md`  
 This creates high-performing Islamic motivational content that is real, not just aesthetic.
 
 ---
 
-## Next Level
-Want the full 30-day Grateful Life Calendar with daily journal prompts, exact UGC scripts, and CapCut-ready templates?  
-Open an issue or request it.
+## Master Control Plane
+
+All products, Buffer queue, Whop cash register, and pipelines live in:  
+https://github.com/planlifegrateful-lang/planlife-grateful-os
 
 **May Allah make us among those who are constantly grateful.**  
 اللهم اجعلنا من الشاكرين
