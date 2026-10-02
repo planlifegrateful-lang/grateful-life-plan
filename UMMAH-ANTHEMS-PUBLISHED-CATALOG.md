@@ -31,14 +31,14 @@ Offer: [Ummah Anthems + Grateful Life OS — $47](https://whop.com/checkout/plan
 
 ---
 
-## 📂 Live Playlists
+## 📂 Live Playlists (Upgraded Names)
 
-| Playlist | Songs |
-|----------|-------|
-| thoughts of a believer | 45 |
-| finally music from our culture | 56 |
-| positive | 85 |
-| Instrumenta | 4 |
+| New Name | Old Name | Songs | Purpose |
+|----------|----------|-------|---------|
+| **Heart of the Believer** | thoughts of a believer | 45 | Deep reflection & deen |
+| **Sounds of the Ummah** | finally music from our culture | 56 | Cultural & faith-forward |
+| **Grateful Frequency** | positive | 85 | High-vibe gratitude |
+| **Sabr Instrumentals** | Instrumenta | 4 | Focus & calm |
 
 ---
 
@@ -52,9 +52,7 @@ Offer: [Ummah Anthems + Grateful Life OS — $47](https://whop.com/checkout/plan
 
 ---
 
-## Brand Core Tracks (From Hope Interface)
-
-These appear in the Muslim Household Music project and are treated as published brand assets:
+## Brand Core Tracks (Hope Interface)
 
 - **Still Standing** · Rebuilding  
   First line: “They thought the story ended right there…”  
@@ -69,11 +67,14 @@ These appear in the Muslim Household Music project and are treated as published 
 
 ---
 
+**Action Required on Suno**  
+Rename the four playlists to the new names above (takes under 3 minutes).
+
 **Full library (399 tracks) requires Suno login.**  
-Public view is limited. No audio files currently stored in Drive, Box, or local workspace.
+No audio files currently stored in Drive, Box, or local workspace.
 
 ---
 
-*Published-only catalog · Clean · Ready for content*  
+*Published-only catalog · Playlist names upgraded · Ready for content*  
 *October 2, 2026*  
 اللهم اجعلنا من الشاكرين
