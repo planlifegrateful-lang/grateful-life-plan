@@ -3,8 +3,9 @@
 **Islamic Motivational Life Plan focused on Shukr (Gratitude)**  
 Turn every Quranic reminder into daily action + powerful grateful language.
 
-**Live product:** Ummah Anthems + Grateful Life OS — $47 one-time  
-Checkout: https://whop.com/checkout/plan_TvDV8LaQDYFou
+**Live product:** Grateful Habit OS — $19 one-time  
+Checkout: https://whop.com/checkout/ch_T70dt1eBZWMWABb/  
+Product: https://whop.com/limitless-ugc/grateful-habit-os
 
 ---
 
@@ -81,6 +82,8 @@ Every time you live one of these for 3–7 days, film a short authentic UGC vide
 
 Ready scripts → `UGC-SCRIPTS.md`  
 This creates high-performing Islamic motivational content that is real, not just aesthetic.
+
+Pin every short with the live checkout: https://whop.com/checkout/ch_T70dt1eBZWMWABb/
 
 ---
 
