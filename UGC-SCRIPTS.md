@@ -1,37 +1,38 @@
-# Ready-to-Film UGC Scripts — Grateful Life OS
+# Ready-to-Film UGC Scripts — Grateful Habit OS
 
-All scripts designed for 30–45s vertical (TikTok / Reels / Shorts).  
+All scripts designed for 15–45s vertical (TikTok / Reels / Shorts).  
 Faceless or face. Speak the language out loud on camera.  
-CTA every time: Whop pack → https://whop.com/checkout/plan_TvDV8LaQDYFou
+**CTA every time:** https://whop.com/checkout/ch_T70dt1eBZWMWABb/  ($19 one-time)
 
 ---
 
-## SCRIPT 1 — Stress Language Flip (Highest converting)
+## SCRIPT 1 — Stress Language Flip (Highest converting) — 15s version ready
 
-HOOK (0–3s)  
-“Stop saying ‘I’m stressed.’”
+HOOK (0–2s)  
+You feel the stress hit and your mind starts racing again.
 
-BODY (3–25s)  
-“Start saying: ‘Alhamdulillah for this test — ease is already written for me.’  
-Your words shape your state.  
-When the pressure hits, pause 10 seconds. Recall the verse. Speak the new sentence out loud.  
-That single shift invites barakah.”
+BODY (2–12s)  
+When stress hits, pause ten seconds.  
+Remember: with hardship comes ease.  
+Say it out loud — Alhamdulillah for this difficulty, ease is already written for me.
 
-CTA (25–40s)  
-“Full system: 5 Ummah Anthems tracks + daily Grateful Life OS + 30-day calendar.  
-Link in bio / checkout.  
-Comment LIMITLESS if you’re changing your words today.”
+CTA (12–15s)  
+That’s the first practice inside Grateful Habit OS.  
+One-time $19. Link in description.
 
 CAPTION  
-Stop saying I’m stressed.  
-Start saying Alhamdulillah for this test — ease is already written.  
+When stress hits, stop fighting it for ten seconds.  
+Speak this instead: “Alhamdulillah for this difficulty — ease is already written for me.”  
 
-Your words shape your state.  
-Change the language. Speak gratitude when it feels hardest.  
+This is one of the 8 core practices inside Grateful Habit OS.  
+Daily check-in. Streak tracking. Spoken grateful language. 30-day challenge.  
+One-time $19. Instant access.  
 
-Full pack: https://whop.com/checkout/plan_TvDV8LaQDYFou  
+Get it here → https://whop.com/checkout/ch_T70dt1eBZWMWABb/
 
-#PlanLifeGrateful #Limitless #GratefulLanguage #Alhamdulillah
+PIN COMMENT  
+Full system + 30-day challenge → https://whop.com/checkout/ch_T70dt1eBZWMWABb/  
+One-time $19. Instant access.
 
 ---
 
@@ -46,7 +47,7 @@ Speak: ‘Hasbunallahu wa ni’mal wakeel. I am grateful You are enough for me.�
 Allah is sufficient. That is not poetry. That is the operating system.”
 
 CTA  
-“Daily language + actions that rewire the heart. Full pack in bio.”
+“Daily language + actions that rewire the heart. Grateful Habit OS — $19. Link in bio.”
 
 ---
 
@@ -61,7 +62,7 @@ By day 4 the spiral slowed. By day 7 the language felt natural.
 Not motivation. A system.”
 
 CTA  
-“The complete Grateful Life OS is inside the pack. Link in bio.”
+“The complete Grateful Habit OS is ready. One-time $19. Link in bio.”
 
 ---
 
@@ -76,7 +77,7 @@ Not ‘health and family.’ Specific.
 Then speak: ‘Ya Allah, I am grateful for [X]. Increase me in every good.’”
 
 CTA  
-“30-day calendar + language bank inside the pack.”
+“30-day calendar + language bank inside Grateful Habit OS. $19.”
 
 ---
 
@@ -90,7 +91,7 @@ BODY
 Do not negotiate with the spiral. Replace the sentence. Out loud.”
 
 CTA  
-“Full language upgrade list + daily actions in the OS.”
+“Full language upgrade list + daily actions in the OS. Link below.”
 
 ---
 
@@ -104,7 +105,7 @@ BODY
 Tawakkul is not passive. It is the final step after effort.”
 
 CTA  
-“Career, money, future — same OS. Pack in bio.”
+“Career, money, future — same OS. Grateful Habit OS $19 in bio.”
 
 ---
 
@@ -112,8 +113,10 @@ CTA
 
 - Dark navy or soft black background  
 - Gold or white text overlays for the spoken lines  
-- Soft Islamic instrumental or Ummah Anthem chorus under (volume low)  
-- End card: product name + checkout URL  
+- Soft Islamic instrumental under (volume low)  
+- End card: Grateful Habit OS + checkout URL  
 - 3–5 text pops of the key phrase  
 
-Film once. Batch 7 variants in one sitting using different verses.
+Film once. Batch variants in one sitting using different verses.
+
+**Only checkout allowed:** https://whop.com/checkout/ch_T70dt1eBZWMWABb/
